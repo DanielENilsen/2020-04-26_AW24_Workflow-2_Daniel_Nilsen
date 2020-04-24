@@ -1,6 +1,6 @@
 /*
-the code for minify images are from:https://www.npmjs.com/package/gulp-imagemin
-
+The code for minify images are from:https://www.npmjs.com/package/gulp-imagemin
+Half of the watch() are from noroff moudle
 */
 const gulp = require('gulp');
 const imagemin = require('gulp-imagemin');
